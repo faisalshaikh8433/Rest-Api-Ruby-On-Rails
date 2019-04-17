@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby 2.5.4
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database sqlite3 which comes with rails by default
 
 * Database initialization
 
